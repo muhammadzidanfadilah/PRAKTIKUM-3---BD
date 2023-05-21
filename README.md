@@ -1,5 +1,7 @@
 # PRAKTIKUM 3
 
+- Dokumen terdapat di file di atas
+
 # Daftar tugas yang di minta
 
 - Lakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen. 
