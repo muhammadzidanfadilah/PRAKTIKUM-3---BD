@@ -1,4 +1,4 @@
-PRAKTIKUM 3
+# PRAKTIKUM 3
 
 - Langkah pertama adalah melakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen 
 
