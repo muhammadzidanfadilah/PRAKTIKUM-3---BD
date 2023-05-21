@@ -1,5 +1,20 @@
 # PRAKTIKUM 3
 
+# Daftar tugas yang di minta
+
+- Lakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen. 
+- Hapus satu record dat pada tabel dosen yang telah dirjuk pada tabel mahasiswa. 
+- Ubah mode menjadi ON UPDATE CASCADE ON DELETE RESTRICT. 
+- Lakukan perubahan data pada tabel dosen (kd_ds).
+- Lakukan penghapusan data pada tabel dosen, 
+-  Ubah mode menjadi ON UPDATE CASCADE ON DELETE SET NULL 
+-  Lakukan penghapusan data pada tabel dosen.
+
+
+
+
+# Berikut langkah langkah pembuatan yang di minta
+
 - Langkah pertama adalah melakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen 
 
 ![gambar1](gambar/ini1.png)
