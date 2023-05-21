@@ -4,10 +4,10 @@
 
 - Lakukan penambahan data pada tabel mahasiswa dengan mengisi kd_ds yang belum ada pada data dosen. 
 - Hapus satu record dat pada tabel dosen yang telah dirjuk pada tabel mahasiswa. 
-- Ubah mode menjadi ON UPDATE CASCADE ON DELETE RESTRICT. 
+- Ubah mode menjadi on update cascade on delete rescrict.
 - Lakukan perubahan data pada tabel dosen (kd_ds).
-- Lakukan penghapusan data pada tabel dosen, 
--  Ubah mode menjadi ON UPDATE CASCADE ON DELETE SET NULL 
+- Lakukan penghapusan data pada tabel dosen. 
+-  Ubah mode menjadi on update cascade on delete delete set null 
 -  Lakukan penghapusan data pada tabel dosen.
 
 
