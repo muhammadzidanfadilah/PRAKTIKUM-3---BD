@@ -31,21 +31,22 @@
 ![gambar1](gambar/ini3.png)
 
 - Langkah ketiga yaitu mengubah mode menjadi  on update cascade on delete rescrict
+
 ![gambar1](gambar/ini4.png)
 
-- Langkah ke empat Lakukan perubahan data pada tabel dosen (kd_ds)
+- Langkah ke empat lakukan perubahan data pada tabel dosen (kd_ds)
 
 ![gambar1](gambar/ini5.png)
 
-- Langkah ke lima yaitu Lakukan penghapusan data pada tabel dosen
+- Langkah ke lima yaitu lakukan penghapusan data pada tabel dosen
 
 ![gambar1](gambar/ini6.png)
 
-- Langkah ke enam Ubah mode menjadi on update cascade on delete delete set null 
+- Langkah ke enam ubah mode menjadi on update cascade on delete delete set null 
 
 ![gambar1](gambar/ini7.png)
 
-- Langkah ke tujuh Lakukan penghapusan data pada tabel dosen
+- Langkah ke tujuh lakukan penghapusan data pada tabel dosen
 
 ![gambar1](gambar/ini8.png)
 
