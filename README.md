@@ -26,12 +26,11 @@
 
 ![gambar1](gambar/ini2.png)
 
-- Langkah kedua yaitu mengajpsu satu record data pada tabel dosen yang telah di rujuk pada tabel mahasiswa
+- Langkah kedua yaitu menghapus satu record data pada tabel dosen yang telah di rujuk pada tabel mahasiswa
 
 ![gambar1](gambar/ini3.png)
 
-- Langkah ketiga yaitu mengubah modemenjadi ON UPDATE CASCADE ON DELETE RESTRICT
-
+- Langkah ketiga yaitu mengubah mode menjadi  on update cascade on delete rescrict
 ![gambar1](gambar/ini4.png)
 
 - Langkah ke empat Lakukan perubahan data pada tabel dosen (kd_ds)
@@ -42,7 +41,7 @@
 
 ![gambar1](gambar/ini6.png)
 
-- Langkah ke enam Ubah mode menjadi ON UPDATE CASCADE ON DELETE SET NULL 
+- Langkah ke enam Ubah mode menjadi on update cascade on delete delete set null 
 
 ![gambar1](gambar/ini7.png)
 
@@ -60,6 +59,6 @@ CASCADE adalah jika kita menghapus atau merubah baris data dalam tabel A secara 
 
 # KESIMPULAN 
 
-RESCRIFT Merupakan perintah untuk menghapus dan juga merubah baris data di dalam tabel secara manual 
+RESCRICT Merupakan perintah untuk menghapus dan juga merubah baris data di dalam tabel secara manual 
 
 CASCADE merupakan perintah menghapus dan merubah baris data dengan menggunakan cara otomatis pada tabel yang ada
